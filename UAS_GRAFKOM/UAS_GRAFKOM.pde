@@ -38,6 +38,14 @@ fill(#045203);
 arc(50,380,350,350,(180*PI)/180,(360*PI)/180);
 fill(#045203);
 arc(700,380,400,350,(180*PI)/180,(360*PI)/180);
+
+//tanahhijau
+  noStroke();
+  fill(#02B71E);
+rect(0,440,800,80);
+
+//createbyanisharahmasoraya
+
 }
 {
 //pohon
