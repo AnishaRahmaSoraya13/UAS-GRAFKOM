@@ -12,6 +12,11 @@ void draw ()
 fill(#08D8FF);
 rect(0,0,800,500);
 
+//matohari
+noStroke();//tanpa list
+fill(#FFCE08);//warna
+ellipse(400+1*m,230-1*m,90,90);//bulat
+
 {
 //awan
 noStroke();
