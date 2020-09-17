@@ -30,6 +30,14 @@ ellipse(600,100,70,45);
 ellipse(650,100,85,65);
 ellipse(700,100,70,45);
 
+//awan2
+strokeWeight(0);
+fill(#F2F2F2);
+ellipse(45+5*d, 130, 80, 80);
+ellipse(85+5*d, 130, 80,80);
+ellipse(125+5*d, 130, 55, 55);
+ellipse(5+5*d, 130, 55, 55);
+
 //salju
 fill(255);
 ellipse(50,5+10*d,10,10);
@@ -78,9 +86,9 @@ ellipse(680,270,200,100);
 ellipse(800,270,150,110);
 ellipse(900,270,150,70);
 
-//tanahhijau
+//tanah
   noStroke();
-  fill(#02B71E);
+  fill(#906022);
 rect(0,440,800,80);
 
   //kolam
